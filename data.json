@@ -48,6 +48,12 @@
       "prodEta": "TBD"
     },
     {
+      "name": "Graph API automatic invite",
+      "status": "In progress",
+      "stageEta": "Already on stage",
+      "prodEta": "TBD"
+    },
+    {
       "name": "Custom Agenda/Minutes items",
       "status": "To Do",
       "stageEta": "TBD",
