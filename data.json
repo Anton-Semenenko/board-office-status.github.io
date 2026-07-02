@@ -1,8 +1,9 @@
 {
-  "lastUpdated": "2026-06-25",
+  "lastUpdated": "2026-07-02",
 
   "statusConfig": {
     "Done": "done",
+    "Development done": "done",
     "In progress": "in-progress",
     "In QA": "in-qa",
     "Awaiting feedback": "awaiting-feedback",
@@ -17,7 +18,7 @@
     },
     {
       "scope": "Hub",
-      "delivery": "Week 27"
+      "delivery": "Week 28"
     }
   ],
 
@@ -29,14 +30,38 @@
       "prodEta": "TBD"
     },
     {
-      "name": "Agenda/Notes sync",
-      "status": "Done",
-      "stageEta": "Already",
-      "prodEta": "Already"
+      "name": "Highlight tours",
+      "status": "In QA",
+      "stageEta": "Already on stage",
+      "prodEta": "TBD"
     },
     {
-      "name": "WWW gradient controls in Umbraco",
+      "name": "Portal gradient colors control in Umbraco",
+      "status": "Development done",
+      "stageEta": "TBD",
+      "prodEta": "W 28"
+    },
+    {
+      "name": "Better .zip import on tablet/mobile",
       "status": "In progress",
+      "stageEta": "TBD",
+      "prodEta": "TBD"
+    },
+    {
+      "name": "Custom Agenda/Minutes items",
+      "status": "To Do",
+      "stageEta": "TBD",
+      "prodEta": "TBD"
+    },
+    {
+      "name": "Add new Agenda item",
+      "status": "To Do",
+      "stageEta": "TBD",
+      "prodEta": "TBD"
+    },
+    {
+      "name": "Implement Word editor from Apryse to have online docs files that can be edited by users",
+      "status": "To Do",
       "stageEta": "TBD",
       "prodEta": "TBD"
     }
@@ -81,54 +106,44 @@
     },
     {
       "name": "Join meeting on Dashboard",
-      "status": "In progress",
-      "stageEta": "W26",
-      "prodEta": "TBD"
+      "status": "Done",
+      "stageEta": "Already on stage",
+      "prodEta": "W 28"
     },
     {
       "name": "Updated meeting creation design",
-      "status": "In progress",
-      "stageEta": "W26",
-      "prodEta": "TBD"
+      "status": "Done",
+      "stageEta": "Already on stage",
+      "prodEta": "W 28"
     },
     {
       "name": "Audio/Video recording",
-      "status": "In progress",
-      "stageEta": "W26",
-      "prodEta": "TBD"
+      "status": "In QA",
+      "stageEta": "Already on stage",
+      "prodEta": "W 28"
     }
   ],
 
   "questionsAndStoppers": [
     {
-      "item": "General search improvements",
-      "type": "Stopper",
-      "status": "waiting for feedback and updated design"
-    },
-    {
       "item": "Internal decision on external users invitation",
       "type": "Question",
       "status": "Details and decision needed"
     },
-    {
-      "item": "List of small priorities",
-      "type": "Question",
-      "status": "To resolve when we have time"
-    },
-    {
-      "item": "Graph API setup in Azure",
-      "type": "Question",
-      "status": "agree on a call to go through steps to configure it"
-      },
       {
         "item": "Check App Store rejection of publish",
         "type": "Question",
-        "status": "Vadym to check and recommend actions"
+        "status": "Vadym to assist with verification"
       },
       {
         "item": "Thor's solution to be deployed",
         "type": "Question",
         "status": "clarify priority of this task"
+    },
+    {
+      "item": "Chat log feature",
+      "type": "Stopper",
+      "status": "Simon to clarify the design and details"
     }
   ]
 }
