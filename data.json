@@ -145,11 +145,6 @@
         "item": "Thor's solution to be deployed",
         "type": "Question",
         "status": "clarify priority of this task"
-    },
-    {
-      "item": "Chat log feature",
-      "type": "Stopper",
-      "status": "Simon to clarify the design and details"
     }
   ]
 }
