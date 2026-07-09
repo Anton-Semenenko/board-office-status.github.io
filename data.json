@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02",
+  "lastUpdated": "2026-07-09",
 
   "statusConfig": {
     "Done": "done",
@@ -14,11 +14,11 @@
   "upcomingDeliveries": [
     {
       "scope": "Portal",
-      "delivery": "TBD"
+      "delivery": "W 29"
     },
     {
       "scope": "Hub",
-      "delivery": "Week 28"
+      "delivery": "W 29"
     }
   ],
 
@@ -43,19 +43,19 @@
     },
     {
       "name": "Better .zip import on tablet/mobile",
-      "status": "In progress",
+      "status": "In QA",
       "stageEta": "TBD",
       "prodEta": "TBD"
     },
     {
       "name": "Graph API automatic invite",
-      "status": "In progress",
+      "status": "In QA",
       "stageEta": "Already on stage",
       "prodEta": "TBD"
     },
     {
       "name": "Custom Agenda/Minutes items",
-      "status": "To Do",
+      "status": "In progress",
       "stageEta": "TBD",
       "prodEta": "TBD"
     },
@@ -114,19 +114,19 @@
       "name": "Join meeting on Dashboard",
       "status": "Done",
       "stageEta": "Already on stage",
-      "prodEta": "W 28"
+      "prodEta": "On Prod"
     },
     {
       "name": "Updated meeting creation design",
       "status": "Done",
       "stageEta": "Already on stage",
-      "prodEta": "W 28"
+      "prodEta": "On Prod"
     },
     {
       "name": "Audio/Video recording",
-      "status": "In QA",
+      "status": "Done",
       "stageEta": "Already on stage",
-      "prodEta": "W 28"
+      "prodEta": "On Prod"
     }
   ],
 
@@ -136,11 +136,6 @@
       "type": "Question",
       "status": "Details and decision needed"
     },
-      {
-        "item": "Check App Store rejection of publish",
-        "type": "Question",
-        "status": "Vadym to assist with verification"
-      },
       {
         "item": "Thor's solution to be deployed",
         "type": "Question",
