@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10",
+  "lastUpdated": "2026-07-16",
 
   "statusConfig": {
     "Done": "done",
@@ -14,11 +14,11 @@
   "upcomingDeliveries": [
     {
       "scope": "Portal",
-      "delivery": "W 29"
+      "delivery": "TBD"
     },
     {
       "scope": "Hub",
-      "delivery": "W 29"
+      "delivery": "TBD"
     }
   ],
 
@@ -39,19 +39,19 @@
       "name": "Portal gradient colors control in Umbraco",
       "status": "Done",
       "stageEta": "Already on stage",
-      "prodEta": "W 29"
+      "prodEta": "Already on prod"
     },
     {
       "name": "Better .zip import on tablet/mobile",
-      "status": "In QA",
+      "status": "Done",
       "stageEta": "Already on stage",
-      "prodEta": "W 29"
+      "prodEta": "Already on prod"
     },
     {
       "name": "Graph API automatic invite",
       "status": "Done",
       "stageEta": "Already on stage",
-      "prodEta": "W 29"
+      "prodEta": "Already on prod"
     },
     {
       "name": "Custom Agenda/Minutes items",
@@ -61,8 +61,8 @@
     },
     {
       "name": "Add new Agenda item",
-      "status": "To Do",
-      "stageEta": "TBD",
+      "status": "In QA",
+      "stageEta": "W 30",
       "prodEta": "TBD"
     },
     {
@@ -76,8 +76,8 @@
   "hub": [
     {
       "name": "Design updates",
-      "status": "In progress",
-      "stageEta": "W 29",
+      "status": "In QA",
+      "stageEta": "W 30",
       "prodEta": "TBD"
     },
     {
@@ -88,9 +88,9 @@
     },
     {
       "name": "Fixes after deployment",
-      "status": "In progress",
-      "stageEta": "W 29",
-      "prodEta": "W 29"
+      "status": "Done",
+      "stageEta": "Already on stage",
+      "prodEta": "Already on prod"
     }
   ],
 
@@ -101,14 +101,19 @@
       "status": "Details and decision needed"
     },
     {
-      "item": "Mockup for Custom fields",
-      "type": "Stopper",
-      "status": "need update in mockups from Simon"
-    },
-    {
       "item": "Pdf with summary of transcription",
       "type": "Stopper",
       "status": "need mockup with ui and flow changes from Simon"
+    },
+    {
+      "item": "Increase the number of cores to 6 on prod machine for Hub",
+      "type": "Question",
+      "status": "need to arrange it to increase the number of concurrent meetings with recordings to approx 4"
+    },
+    {
+      "item": "Autologout logic on Hub",
+      "type": "Question",
+      "status": "should we keep it or change"
     }
   ]
 }
