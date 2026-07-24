@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16",
+  "lastUpdated": "2026-07-24",
 
   "statusConfig": {
     "Done": "done",
@@ -14,11 +14,11 @@
   "upcomingDeliveries": [
     {
       "scope": "Portal",
-      "delivery": "TBD"
+      "delivery": "W-31"
     },
     {
       "scope": "Hub",
-      "delivery": "TBD"
+      "delivery": "W-31"
     }
   ],
 
@@ -36,28 +36,16 @@
       "prodEta": "TBD"
     },
     {
-      "name": "Portal gradient colors control in Umbraco",
-      "status": "Done",
-      "stageEta": "Already on stage",
-      "prodEta": "Already on prod"
-    },
-    {
-      "name": "Better .zip import on tablet/mobile",
-      "status": "Done",
-      "stageEta": "Already on stage",
-      "prodEta": "Already on prod"
-    },
-    {
-      "name": "Graph API automatic invite",
-      "status": "Done",
-      "stageEta": "Already on stage",
-      "prodEta": "Already on prod"
-    },
-    {
       "name": "Custom Agenda/Minutes items",
-      "status": "In progress",
+      "status": "In QA",
       "stageEta": "TBD",
       "prodEta": "TBD"
+    },
+    {
+      "name": "Change the way invites work",
+      "status": "In QA",
+      "stageEta": "Already on stage",
+      "prodEta": "Week 31"
     },
     {
       "name": "Add new Agenda item",
@@ -77,20 +65,14 @@
     {
       "name": "Design updates",
       "status": "In QA",
-      "stageEta": "W 30",
+      "stageEta": "Already on stage",
       "prodEta": "TBD"
     },
     {
       "name": "Mobile design",
-      "status": "To Do",
+      "status": "In progress",
       "stageEta": "TBD",
       "prodEta": "TBD"
-    },
-    {
-      "name": "Fixes after deployment",
-      "status": "Done",
-      "stageEta": "Already on stage",
-      "prodEta": "Already on prod"
     }
   ],
 
@@ -99,11 +81,6 @@
       "item": "Internal decision on external users invitation",
       "type": "Question",
       "status": "Details and decision needed"
-    },
-    {
-      "item": "Pdf with summary of transcription",
-      "type": "Stopper",
-      "status": "need mockup with ui and flow changes from Simon"
     },
     {
       "item": "Increase the number of cores to 6 on prod machine for Hub",
