@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24",
+  "lastUpdated": "2026-07-30",
 
   "statusConfig": {
     "Done": "done",
@@ -14,21 +14,15 @@
   "upcomingDeliveries": [
     {
       "scope": "Portal",
-      "delivery": "W-31"
+      "delivery": "TBD"
     },
     {
       "scope": "Hub",
-      "delivery": "W-31"
+      "delivery": "TBD"
     }
   ],
 
   "portal": [
-    {
-      "name": "Global Search",
-      "status": "In QA",
-      "stageEta": "Already on stage",
-      "prodEta": "TBD"
-    },
     {
       "name": "Highlight tours",
       "status": "In QA",
@@ -38,19 +32,13 @@
     {
       "name": "Custom Agenda/Minutes items",
       "status": "In QA",
-      "stageEta": "TBD",
+      "stageEta": "W 31",
       "prodEta": "TBD"
-    },
-    {
-      "name": "Change the way invites work",
-      "status": "In QA",
-      "stageEta": "Already on stage",
-      "prodEta": "Week 31"
     },
     {
       "name": "Add new Agenda item",
       "status": "In QA",
-      "stageEta": "W 30",
+      "stageEta": "W 31",
       "prodEta": "TBD"
     },
     {
@@ -62,12 +50,6 @@
   ],
 
   "hub": [
-    {
-      "name": "Design updates",
-      "status": "In QA",
-      "stageEta": "Already on stage",
-      "prodEta": "TBD"
-    },
     {
       "name": "Mobile design",
       "status": "In progress",
@@ -91,6 +73,16 @@
       "item": "Autologout logic on Hub",
       "type": "Question",
       "status": "should we keep it or change"
+    },
+    {
+      "item": "Option to select among AI models in AI chat",
+      "type": "Question",
+      "status": "discuss whether we need it"
+    },
+    {
+      "item": "Global search points",
+      "type": "Question",
+      "status": "discuss privacy points and their importance"
     }
   ]
 }
