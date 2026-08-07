@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30",
+  "lastUpdated": "2026-08-07",
 
   "statusConfig": {
     "Done": "done",
@@ -32,13 +32,79 @@
     {
       "name": "Custom Agenda/Minutes items",
       "status": "In QA",
-      "stageEta": "W 31",
+      "stageEta": "W 32",
       "prodEta": "TBD"
     },
     {
       "name": "Add new Agenda item",
       "status": "In QA",
-      "stageEta": "W 31",
+      "stageEta": "W 32",
+      "prodEta": "TBD"
+    },
+    {
+      "name": "Transfer comments/annotations popup always says \"Agenda\"",
+      "status": "Development done",
+      "stageEta": "W 32",
+      "prodEta": "TBD"
+    },
+    {
+      "name": "Automatic deletion of inactive users",
+      "status": "Development done",
+      "stageEta": "W 32",
+      "prodEta": "TBD"
+    },
+    {
+      "name": "Hide list of BA chats",
+      "status": "Development done",
+      "stageEta": "W 32",
+      "prodEta": "TBD"
+    },
+    {
+      "name": "Better dashboard access on mobile",
+      "status": "Development done",
+      "stageEta": "W 32",
+      "prodEta": "TBD"
+    },
+    {
+      "name": "Invoice email address check",
+      "status": "Development done",
+      "stageEta": "W 32",
+      "prodEta": "TBD"
+    },
+    {
+      "name": "Extract action to board log events",
+      "status": "Development done",
+      "stageEta": "W 32",
+      "prodEta": "TBD"
+    },
+    {
+      "name": "Log mail in board log",
+      "status": "Development done",
+      "stageEta": "W 32",
+      "prodEta": "TBD"
+    },
+    {
+      "name": "Deleted file shouldn't be in notification",
+      "status": "Development done",
+      "stageEta": "W 32",
+      "prodEta": "TBD"
+    },
+    {
+      "name": "Meeting - Notification should be sent to only added users",
+      "status": "Development done",
+      "stageEta": "W 32",
+      "prodEta": "TBD"
+    },
+    {
+      "name": "Remove Buy button from Overview and old registration flow",
+      "status": "Development done",
+      "stageEta": "W 32",
+      "prodEta": "TBD"
+    },
+    {
+      "name": "Add Board Meet to side menu",
+      "status": "Development done",
+      "stageEta": "W 32",
       "prodEta": "TBD"
     },
     {
@@ -52,7 +118,13 @@
   "hub": [
     {
       "name": "Mobile design",
-      "status": "In progress",
+      "status": "In QA",
+      "stageEta": "Already on staging",
+      "prodEta": "TBD"
+    },
+    {
+      "name": "Create option to make meeting for multiple boards",
+      "status": "To Do",
       "stageEta": "TBD",
       "prodEta": "TBD"
     }
@@ -65,14 +137,14 @@
       "status": "Details and decision needed"
     },
     {
-      "item": "Increase the number of cores to 6 on prod machine for Hub",
-      "type": "Question",
-      "status": "need to arrange it to increase the number of concurrent meetings with recordings to approx 4"
-    },
-    {
       "item": "Autologout logic on Hub",
       "type": "Question",
       "status": "should we keep it or change"
+    },
+    {
+      "item": "AI assistant chat for Umbraco",
+      "type": "Question",
+      "status": "Compent to internally discuss and make POC"
     },
     {
       "item": "Option to select among AI models in AI chat",
