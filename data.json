@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07",
+  "lastUpdated": "2026-08-14",
 
   "statusConfig": {
     "Done": "done",
@@ -96,15 +96,15 @@
       "prodEta": "TBD"
     },
     {
-      "name": "Remove Buy button from Overview and old registration flow",
-      "status": "Development done",
-      "stageEta": "W 32",
+      "name": "Log opening Agenda/Notes to Board log",
+      "status": "To Do",
+      "stageEta": "TBD",
       "prodEta": "TBD"
     },
     {
-      "name": "Add Board Meet to side menu",
-      "status": "Development done",
-      "stageEta": "W 32",
+      "name": "Do not invite deactivated users",
+      "status": "In progress",
+      "stageEta": "TBD",
       "prodEta": "TBD"
     },
     {
@@ -123,7 +123,7 @@
       "prodEta": "TBD"
     },
     {
-      "name": "Create option to make meeting for multiple boards",
+      "name": "Guest users for Board meet",
       "status": "To Do",
       "stageEta": "TBD",
       "prodEta": "TBD"
@@ -131,11 +131,6 @@
   ],
 
   "questionsAndStoppers": [
-    {
-      "item": "Internal decision on external users invitation",
-      "type": "Question",
-      "status": "Details and decision needed"
-    },
     {
       "item": "Autologout logic on Hub",
       "type": "Question",
