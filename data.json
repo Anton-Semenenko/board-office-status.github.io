@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-18",
 
   "statusConfig": {
     "Done": "done",
@@ -32,73 +32,73 @@
     {
       "name": "Custom Agenda/Minutes items",
       "status": "In QA",
-      "stageEta": "W 32",
+      "stageEta": "W 35",
       "prodEta": "TBD"
     },
     {
       "name": "Add new Agenda item",
       "status": "In QA",
-      "stageEta": "W 32",
+      "stageEta": "Already on stage",
       "prodEta": "TBD"
     },
     {
       "name": "Transfer comments/annotations popup always says \"Agenda\"",
-      "status": "Development done",
-      "stageEta": "W 32",
+      "status": "In QA",
+      "stageEta": "Already on stage",
       "prodEta": "TBD"
     },
     {
       "name": "Automatic deletion of inactive users",
-      "status": "Development done",
-      "stageEta": "W 32",
+      "status": "In QA",
+      "stageEta": "Already on stage",
       "prodEta": "TBD"
     },
     {
       "name": "Hide list of BA chats",
-      "status": "Development done",
-      "stageEta": "W 32",
+      "status": "In QA",
+      "stageEta": "Already on stage",
       "prodEta": "TBD"
     },
     {
       "name": "Better dashboard access on mobile",
-      "status": "Development done",
-      "stageEta": "W 32",
+      "status": "In QA",
+      "stageEta": "Already on stage",
       "prodEta": "TBD"
     },
     {
       "name": "Invoice email address check",
-      "status": "Development done",
-      "stageEta": "W 32",
+      "status": "In QA",
+      "stageEta": "Already on stage",
       "prodEta": "TBD"
     },
     {
       "name": "Extract action to board log events",
-      "status": "Development done",
-      "stageEta": "W 32",
+      "status": "In QA",
+      "stageEta": "Already on stage",
       "prodEta": "TBD"
     },
     {
       "name": "Log mail in board log",
       "status": "Development done",
-      "stageEta": "W 32",
+      "stageEta": "W 35",
       "prodEta": "TBD"
     },
     {
       "name": "Deleted file shouldn't be in notification",
       "status": "Development done",
-      "stageEta": "W 32",
+      "stageEta": "W 35",
       "prodEta": "TBD"
     },
     {
       "name": "Meeting - Notification should be sent to only added users",
-      "status": "Development done",
-      "stageEta": "W 32",
+      "status": "In QA",
+      "stageEta": "Already on stage",
       "prodEta": "TBD"
     },
     {
       "name": "Log opening Agenda/Notes to Board log",
-      "status": "To Do",
-      "stageEta": "TBD",
+      "status": "In progress",
+      "stageEta": "W 35",
       "prodEta": "TBD"
     },
     {
@@ -145,11 +145,6 @@
       "item": "Option to select among AI models in AI chat",
       "type": "Question",
       "status": "discuss whether we need it"
-    },
-    {
-      "item": "Global search points",
-      "type": "Question",
-      "status": "discuss privacy points and their importance"
     }
   ]
 }
