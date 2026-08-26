@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18",
+  "lastUpdated": "2026-08-26",
 
   "statusConfig": {
     "Done": "done",
@@ -14,11 +14,11 @@
   "upcomingDeliveries": [
     {
       "scope": "Portal",
-      "delivery": "TBD"
+      "delivery": "W 35"
     },
     {
       "scope": "Hub",
-      "delivery": "TBD"
+      "delivery": "W 35"
     }
   ],
 
@@ -43,15 +43,15 @@
     },
     {
       "name": "Transfer comments/annotations popup always says \"Agenda\"",
-      "status": "In QA",
+      "status": "Done",
       "stageEta": "Already on stage",
-      "prodEta": "TBD"
+      "prodEta": "W 35"
     },
     {
       "name": "Automatic deletion of inactive users",
-      "status": "In QA",
+      "status": "Done",
       "stageEta": "Already on stage",
-      "prodEta": "TBD"
+      "prodEta": "W 35"
     },
     {
       "name": "Hide list of BA chats",
@@ -73,15 +73,15 @@
     },
     {
       "name": "Extract action to board log events",
-      "status": "In QA",
+      "status": "Done",
       "stageEta": "Already on stage",
-      "prodEta": "TBD"
+      "prodEta": "W 35"
     },
     {
       "name": "Log mail in board log",
-      "status": "Development done",
-      "stageEta": "W 35",
-      "prodEta": "TBD"
+      "status": "Done",
+      "stageEta": "Already on stage",
+      "prodEta": "W 35"
     },
     {
       "name": "Deleted file shouldn't be in notification",
@@ -91,21 +91,21 @@
     },
     {
       "name": "Meeting - Notification should be sent to only added users",
-      "status": "In QA",
+      "status": "In progress",
       "stageEta": "Already on stage",
       "prodEta": "TBD"
     },
     {
       "name": "Log opening Agenda/Notes to Board log",
-      "status": "In progress",
-      "stageEta": "W 35",
-      "prodEta": "TBD"
+      "status": "Done",
+      "stageEta": "Already on stage",
+      "prodEta": "W 35"
     },
     {
       "name": "Do not invite deactivated users",
-      "status": "In progress",
-      "stageEta": "TBD",
-      "prodEta": "TBD"
+      "status": "Done",
+      "stageEta": "Already on stage",
+      "prodEta": "W 35"
     },
     {
       "name": "Implement Word editor from Apryse to have online docs files that can be edited by users",
@@ -117,13 +117,13 @@
 
   "hub": [
     {
-      "name": "Mobile design",
-      "status": "In QA",
-      "stageEta": "Already on staging",
+      "name": "Guest users for Board meet",
+      "status": "To Do",
+      "stageEta": "TBD",
       "prodEta": "TBD"
     },
     {
-      "name": "Guest users for Board meet",
+      "name": "Outlook event customization for Hub",
       "status": "To Do",
       "stageEta": "TBD",
       "prodEta": "TBD"
